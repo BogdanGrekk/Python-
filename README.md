@@ -23,7 +23,9 @@
 
 ![image](https://user-images.githubusercontent.com/85605310/121787337-2c305a80-cbce-11eb-9ad7-3612685f42cc.png)
 
+написання програми
 
+![image](https://user-images.githubusercontent.com/85605310/121787575-7e25b000-cbcf-11eb-990a-148271f110b2.png)
 
 пуш файлів в Git-hub
 
