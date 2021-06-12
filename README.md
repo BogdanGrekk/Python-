@@ -15,9 +15,11 @@
 
 ![image](https://user-images.githubusercontent.com/85605310/121784443-a952d400-cbbc-11eb-8f18-947020567113.png)
 
-
+перевірка папки на наявність файлів
 
 ![image](https://user-images.githubusercontent.com/85605310/121784468-c4bddf00-cbbc-11eb-9fde-ac0cc2e90298.png)
+
+перевіряє незбережені файли
 
 ![image](https://user-images.githubusercontent.com/85605310/121784526-fa62c800-cbbc-11eb-938d-7541a63d5ba0.png)
 
