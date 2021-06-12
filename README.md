@@ -1,7 +1,7 @@
 # zavd1
 створення ssh ключа
 
-![image](https://user-images.githubusercontent.com/85605310/121787669-17ed5d00-cbd0-11eb-9cfd-d63d0b9d0347.png)
+![image](https://user-images.githubusercontent.com/85605310/121787703-5aaf3500-cbd0-11eb-83c3-a1bb147fcc44.png)
 
 ![image](https://user-images.githubusercontent.com/85605310/121787619-c513a580-cbcf-11eb-840f-e46d011a4dfd.png)
 
