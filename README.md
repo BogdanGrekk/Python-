@@ -25,8 +25,6 @@
 
 
 
-![image](https://user-images.githubusercontent.com/85605310/121784680-f97e6600-cbbd-11eb-8ce2-41b01234a60a.png)
-
 пуш файлів в Git-hub
 
 ![image](https://user-images.githubusercontent.com/85605310/121787159-3d2c9c00-cbcd-11eb-9b03-cb5a843acaed.png)
