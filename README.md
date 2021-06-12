@@ -19,9 +19,9 @@
 
 ![image](https://user-images.githubusercontent.com/85605310/121784468-c4bddf00-cbbc-11eb-9fde-ac0cc2e90298.png)
 
-перевіряє незбережені файли
+спочатку додав а потім перевірив незбережені файли
 
-![image](https://user-images.githubusercontent.com/85605310/121784526-fa62c800-cbbc-11eb-938d-7541a63d5ba0.png)
+![image](https://user-images.githubusercontent.com/85605310/121787337-2c305a80-cbce-11eb-9ad7-3612685f42cc.png)
 
 
 
