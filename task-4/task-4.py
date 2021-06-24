@@ -336,10 +336,10 @@ def start_handler(message):
 def askCountry(message):
         chat_id = message.chat.id
         text = message.text
-        c1 = "Japan"
-        c2 = "Israel"
-        c3 = "Bangladesh"
-        c4 = "Pakistan"
+        c1 = "Turkey"
+        c2 = "Iran"
+        c3 = "Indonesia"
+        c4 = "Philippines"
         c5 = "Iraq"
         if text == c1:
             text1 = cal1()
