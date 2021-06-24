@@ -22,4 +22,12 @@
 
 ![image](https://user-images.githubusercontent.com/85605310/123317986-60453d00-d537-11eb-9d84-3d3890b18393.png)
 
+Створив папку, завантажив туди файли і запушив
 
+![image](https://user-images.githubusercontent.com/85605310/123318553-0002cb00-d538-11eb-93ba-d7cf4c29c549.png)
+
+![image](https://user-images.githubusercontent.com/85605310/123318568-04c77f00-d538-11eb-9516-4259b3238b3c.png)
+
+![image](https://user-images.githubusercontent.com/85605310/123318584-08f39c80-d538-11eb-8a69-ef0e9df6b4ec.png)
+
+![image](https://user-images.githubusercontent.com/85605310/123318591-0b55f680-d538-11eb-911a-3fd8f66ee16d.png)
